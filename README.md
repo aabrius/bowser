@@ -389,8 +389,8 @@ ai_review/
 - https://github.com/microsoft/playwright-cli
 - https://code.claude.com/docs/en/chrome
 
-## Master AI **Agentic Coding**
-> And prepare for the future of software engineering
+## Master Agentic Coding
+> Prepare for the future of software engineering
 
 Learn tactical agentic coding patterns with [Tactical Agentic Coding](https://agenticengineer.com/tactical-agentic-coding?y=bows)
 
